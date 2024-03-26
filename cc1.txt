@@ -1,0 +1,8 @@
+Clod co0mputing is virtual envirment
+ which offer many servise 
+such a IAAs
+PAAS
+SAAS
+paas is nothimg but palotform as a service
+for exaple cloud will give us os as service for any purpose
+

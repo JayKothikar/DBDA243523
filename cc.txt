@@ -1,0 +1,5 @@
+Clod co0mputing is virtual envirment
+ which offer many servise 
+such a IAAs
+PAAS
+SAAS
